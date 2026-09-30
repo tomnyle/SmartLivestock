@@ -1,6 +1,7 @@
 #ifndef LIVESTOCK_PROFILE_H
 #define LIVESTOCK_PROFILE_H
 
+#include <Arduino.h>
 #include "system_state.h"
 
 struct LivestockProfile {

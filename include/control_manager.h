@@ -4,6 +4,6 @@
 #include "system_state.h"
 
 void controlInit();
-void applyOutputs(const OutputState& out);
+void applyOutputs(SystemState& state);
 
 #endif
